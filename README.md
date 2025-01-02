@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in Web Development<br>👯 I’m looking to collaborate on making a website<br>🌱 I’m currently learning Next JS<br>📫 Reach me at aimanwafii03@gmail.com
+👀 I’m interested in Web Development<br>👯 I'm looking to collaborate on building a website<br>🌱 I’m currently learning Next JS<br>📫 Reach me at aimanwafii03@gmail.com
 
 
 ## 🌐 Socials:
