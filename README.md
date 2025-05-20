@@ -2,7 +2,7 @@
 👀 I’m interested in Web Development<br>👯 I'm looking to collaborate on building a website<br>🌱 I’m currently learning Flutter<br>📫 Reach me at aimanwafii03@gmail.com
 
 <!-- Tambahkan GIF di bawah bio -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FyOGs3dWYzYm9uMmdmbm56b3ZjdmdmcWlveGFrMDB2OTd3NnNneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EM76SUKIS2pt5EhB01/giphy.gif" width="400" alt="Coding GIF" />
+<img src="https://giphy.com/gifs/genshin-impact-EM76SUKIS2pt5EhB01" width="400" alt="Coding GIF" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aimanwafii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aiman-wafii-an-nawal) 
