@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in Web Development<br>👯 I'm looking to collaborate on building a website<br>🌱 I’m currently learning Flutter<br>📫 Reach me at aimanwafii03@gmail.com
+👀 I’m interested in Web and App Development<br>👯 I'm looking to collaborate on building a website<br>🌱 I’m currently learning Flutter<br>📫 Reach me at aimanwafii03@gmail.com
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNudmNmbjRmdG1nNDM4aDA3aTEzbDVhbmV0Njk2OThvcXhlM20yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif" width="400" alt="GIF" />
 
