@@ -1,21 +1,8 @@
 # 💫 About Me:
 
-<table>
-<tr>
-<td align="left" width="60%">
+👋 **Hello, I'm Aiman Wafii An Nawal**<br><br>👀 I’m interested in Web and App Development<br>👯 I'm looking to collaborate on building a website<br>🌱 I’m currently learning Flutter<br>📫 Reach me at aimanwafii03@gmail.com
 
-👋 **Hello, I'm Aiman Wafii An Nawal**<br><br>
-👀 I’m interested in Web and App Development<br>
-👯 I'm looking to collaborate on building a website<br>
-🌱 I’m currently learning Flutter<br>
-📫 Reach me at aimanwafii03@gmail.com
-
-</td>
-<td align="right" width="40%">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNudmNmbjRmdG1nNDM4aDA3aTEzbDVhbmV0Njk2OThvcXhlM20yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif" width="250" alt="Coding GIF" />
-</td>
-</tr>
-</table>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNudmNmbjRmdG1nNDM4aDA3aTEzbDVhbmV0Njk2OThvcXhlM20yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif" width="400" alt="GIF" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aimanwafii_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aiman-wafii-an-nawal) 
