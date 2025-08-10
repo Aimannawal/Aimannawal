@@ -1,25 +1,70 @@
 # Hi there, I'm Aiman 👋
-I’m passionate about building clean and user-friendly web and mobile apps. Recently, I’ve been diving into Flutter and creating some projects.
 
-## 🤝 Let's Connect
+<div align="center">
+  
+### 🚀 Passionate Full-Stack Developer
+*Building clean and user-friendly web & mobile applications*
 
-<p align="center">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/yourusername">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://open.spotify.com/user/yourusername">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</p>
+Currently exploring **Flutter** and creating innovative projects that make a difference.
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="mailto:your.email@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <br><sub><b>Email Me</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/yourprofile">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <br><sub><b>Professional</b></sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://instagram.com/yourusername">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <br><sub><b>Lifestyle</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://discord.gg/yourusername">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+        <br><sub><b>Let's Chat</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/user/yourusername">
+        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+        <br><sub><b>Music Vibes</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aimanwafii.my.id">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
+        <br><sub><b>My Work</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+*Feel free to reach out for collaborations, tech discussions, or just to say hi! 👋*
+
+</div>
 
 ---
 
