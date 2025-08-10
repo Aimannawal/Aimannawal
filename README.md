@@ -1,7 +1,5 @@
 # Hi there, I'm Aiman 👋
 
-### Full Stack Developer | Flutter Enthusiast
-
 I'm passionate about creating beautiful and functional web and mobile applications. Currently diving deep into Flutter development while building amazing digital experiences.
 
 ---
