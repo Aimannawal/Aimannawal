@@ -1,6 +1,6 @@
 # Hi there, I'm Aiman 👋
 
-I'm passionate about creating beautiful and functional web and mobile applications. Currently diving deep into Flutter development while building amazing digital experiences.
+I’m passionate about building clean and user-friendly web and mobile apps. Recently, I’ve been diving into Flutter and creating some projects.
 
 ---
 
