@@ -1,21 +1,49 @@
-# 💫 About Me:
+# Hi there, I'm Aiman 👋
 
-👋 **Hello, I'm Aiman Wafii An Nawal**<br>👀 I’m interested in Web and App Development<br>👯 I'm looking to collaborate on building a website or apps<br>🌱 I’m currently learning Flutter<br>📫 Reach me at aimanwafii03@gmail.com
+### Full Stack Developer | Flutter Enthusiast
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNudmNmbjRmdG1nNDM4aDA3aTEzbDVhbmV0Njk2OThvcXhlM20yMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nR4L10XlJcSeQ/giphy.gif" width="400" alt="GIF" />
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wafiian03_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aiman-wafii-an-nawal) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aimannawal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aimannawal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimannawal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm passionate about creating beautiful and functional web and mobile applications. Currently diving deep into Flutter development while building amazing digital experiences.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aimannawal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm up to
+
+- 🔭 Building web and mobile applications
+- 🌱 Learning Flutter & mobile development
+- 💡 Open to collaboration on exciting projects
+- 📬 Let's connect: **aimanwafii03@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React • Next.js • Vue.js • HTML5 • CSS3 • JavaScript  
+**Backend:** Laravel • PHP • Node.js • Python  
+**Mobile:** Flutter  
+**Tools & Others:** Git • REST APIs
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aimannawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aimannawal&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiman-wafii-an-nawal)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/wafiian03_)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aimanwafii03@gmail.com)
+
+---
+
+<div align="center">
+  <i>✨ Always excited to collaborate on innovative projects ✨</i>
+</div>
