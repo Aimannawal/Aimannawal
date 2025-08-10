@@ -8,10 +8,20 @@ I'm passionate about creating beautiful and functional web and mobile applicatio
 
 ## 📬 Let's Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimanwafii03@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1048941739370623086)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+<p align="left">
+  <a href="mailto:aimanwafii03@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://instagram.com/USERNAME" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://discord.com/users/1048941739370623086" target="_blank">
+    <img src="https://img.icons8.com/color/48/discord--v2.png" alt="Discord"/>
+  </a>
+  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
