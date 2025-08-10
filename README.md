@@ -42,9 +42,9 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-[<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmfqq5q5557pliglc6qap3rjhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="300"/>](aimanwafii.my.id)
+[<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmfqq5q5557pliglc6qap3rjhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="300"/>](https://aimanwafii.my.id/)
 
-[<img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" height="300"/>](aimanwafii.my.id)
+[<img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" height="300"/>](https://aimanwafii.my.id/)
 
 </div>
 
