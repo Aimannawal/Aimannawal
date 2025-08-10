@@ -13,7 +13,7 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 
 <style>
   .badge {
-    border-radius: 8px;
+    border-radius: 36px;
     overflow: hidden;
   }
 </style>
