@@ -61,7 +61,7 @@ I'm passionate about creating beautiful and functional web and mobile applicatio
 
 <div align="center">
   
-![Profile Views](https://count.getloli.com/get/@Aimannawal)
+[![Profile Views](https://count.getloli.com/get/@Aimannawal)](https://aimanwafii.my.id)
 
 <i>✨ Always excited to collaborate on innovative projects ✨</i>
 
