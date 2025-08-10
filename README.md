@@ -40,10 +40,10 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1048941739370623086?showDisplayName=true&hideBadges=true)](https://aimanwafii.my.id)
 
-[<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmfqq5q5557pliglc6qap3rjhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="300" style="border: none; outline: none;"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" height="300" style="border: none; outline: none;"/>
-</div>](https://aimanwafii.my.id/)
+    [<img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" height="300" style="border: none; outline: none;"/>](https://aimanwafii.my.id/)
+</div>
 
 </div>
 
