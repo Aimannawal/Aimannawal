@@ -18,9 +18,9 @@ I'm passionate about creating beautiful and functional web and mobile applicatio
 ## 🛠️ Tech Stack
 
 **Frontend:** React • Next.js • Vue.js • HTML5 • CSS3 • JavaScript  
-**Backend:** Laravel • PHP • Node.js • Python  
+**Backend:** Laravel • PHP • Node.js
 **Mobile:** Flutter  
-**Tools & Others:** Git • REST APIs
+**Tools & Others:** Github
 
 ---
 
