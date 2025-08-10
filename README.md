@@ -18,8 +18,6 @@ I’m passionate about building clean and user-friendly web and mobile apps. Rec
 
 ---
 
-*Feel free to reach out if you want to collaborate on something amazing! 🚀*
-
 ## 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
