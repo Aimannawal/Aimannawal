@@ -1,64 +1,25 @@
 # Hi there, I'm Aiman 👋
+I'm passionate about building clean and user-friendly web and mobile apps. Recently, I've been diving into Flutter and creating some projects.
 
-<div align="center">
-  
-### 🚀 Passionate Full-Stack Developer
-*Building clean and user-friendly web & mobile applications*
+## 🤝 Let's Connect
 
-Currently exploring **Flutter** and creating innovative projects that make a difference.
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<br>
-
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="mailto:your.email@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://linkedin.com/in/yourprofile">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://instagram.com/yourusername">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://discord.gg/yourusername">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/user/yourusername">
-        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://aimanwafii.my.id">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-*Feel free to reach out for collaborations, tech discussions, or just to say hi! 👋*
-
-</div>
+<p>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/yourusername">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://open.spotify.com/user/yourusername">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
 
 ---
 
