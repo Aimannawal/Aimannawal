@@ -10,7 +10,7 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://instagram.com/aiman.id">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Pandhu%20Arya%20Munjalindra-0A66C2?logo=linkedin-white&logoColor=white"/>
 </a>
 <a href="https://discord.com/users/1048941739370623086">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
