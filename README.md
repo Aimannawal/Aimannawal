@@ -2,8 +2,6 @@
 
 I’m passionate about building clean and user-friendly web and mobile apps. Recently, I’ve been diving into Flutter and creating some projects.
 
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
