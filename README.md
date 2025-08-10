@@ -3,13 +3,21 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 
 ## 🤝 Let's Connect
 
-<p>
+<a href="mailto:aimannawal@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/aimannawal">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/aiman.id">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://discord.com/users/1048941739370623086">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://open.spotify.com/user/aiman">
   <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
-</p>
+</a>
 
 ---
 
