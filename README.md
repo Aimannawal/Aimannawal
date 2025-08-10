@@ -4,6 +4,15 @@ I'm passionate about creating beautiful and functional web and mobile applicatio
 
 ---
 
+## 🚀 What I'm up to
+
+- 🔭 Building web and mobile applications
+- 🌱 Learning Flutter & mobile development
+- 💡 Open to collaboration on exciting projects
+- 📬 Let's connect: **aimanwafii03@gmail.com**
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
