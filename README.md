@@ -4,11 +4,11 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 ## 🤝 Let's Connect
 
 <p>
-  <img style="border-radius: 8px; overflow: hidden;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  <img class="badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img class="badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  <img class="badge" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  <img class="badge" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/Gmail-FF6B6B?style=plastic&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/LinkedIn-4ECDC4?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Instagram-FFE66D?style=plastic&logo=instagram&logoColor=black" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Discord-A8E6CF?style=plastic&logo=discord&logoColor=black" alt="Discord" />
+  <img src="https://img.shields.io/badge/Spotify-C7CEEA?style=plastic&logo=spotify&logoColor=black" alt="Spotify" />
 </p>
 
 ---
