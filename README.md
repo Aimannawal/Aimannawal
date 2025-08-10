@@ -41,13 +41,19 @@ I'm passionate about creating beautiful and functional web and mobile applicatio
 
 ---
 
-## 🎵 Currently Playing
+## 📡 My Live Status
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1048941739370623086?showDisplayName=true&hideBadges=true)](https://discord.com/users/1048941739370623086)
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmfqq5q5557pliglc6qap3rjhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="300"/>
 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" height="300"/>
+
+</div>
 
 </div>
 
