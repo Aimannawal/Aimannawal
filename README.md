@@ -4,11 +4,11 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 ## 🤝 Let's Connect
 
 <p>
-  <img src="https://img.shields.io/badge/Gmail-eeeeee?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail" />
-  <img src="https://img.shields.io/badge/LinkedIn-eeeeee?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Instagram-eeeeee?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-  <img src="https://img.shields.io/badge/Discord-eeeeee?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
-  <img src="https://img.shields.io/badge/Spotify-eeeeee?style=for-the-badge&logo=spotify&logoColor=1ED760" alt="Spotify" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" alt="Spotify" />
 </p>
 
 ---
