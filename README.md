@@ -6,12 +6,12 @@ I'm passionate about creating beautiful and functional web and mobile applicatio
 
 ---
 
-## 🚀 What I'm up to
+## 📬 Let's Contact
 
-- 🔭 Building web and mobile applications
-- 🌱 Learning Flutter & mobile development
-- 💡 Open to collaboration on exciting projects
-- 📬 Let's connect: **aimanwafii03@gmail.com**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimanwafii03@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1048941739370623086)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
 
 ---
 
