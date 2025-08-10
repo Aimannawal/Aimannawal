@@ -43,13 +43,13 @@ I'm passionate about creating beautiful and functional web and mobile applicatio
 
 ## 🎵 Currently Playing
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmfqq5q5557pliglc6qap3rjhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmfqq5q5557pliglc6qap3rjhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="300"/>
 </a>
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" />
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" height="300"/>
 
 </div>
 
