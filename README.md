@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4xYXB2cXFpOHh3NjB0YnV5cDV2b2lvYXAxbzR4cjB3Y2o3dm8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7FDuR0rh63Qjwci0o/giphy.gif" width="80%" alt="Banner GIF">
-</p>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4xYXB2cXFpOHh3NjB0YnV5cDV2b2lvYXAxbzR4cjB3Y2o3dm8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7FDuR0rh63Qjwci0o/giphy.gif" width="80%" alt="Banner GIF">
 
 # Hi there, I'm Aiman 👋
 I'm passionate about building clean and user-friendly web and mobile apps. Recently, I've been diving into Flutter and creating some projects. 
