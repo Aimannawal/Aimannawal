@@ -1,6 +1,17 @@
 # Hi there, I'm Aiman 👋
 I'm passionate about building clean and user-friendly web and mobile apps. Recently, I've been diving into Flutter and creating some projects.
 
+## 🤝 Let's Connect
+
+<p>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</p>
+
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -40,13 +51,16 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1048941739370623086?showDisplayName=true&hideBadges=true)](https://aimanwafii.my.id)
 
-<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
 <a href="https://aimanwafii.my.id">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmfqq5q5557pliglc6qap3rjhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="300" style="border: none; outline: none;"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nmfqq5q5557pliglc6qap3rjhq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" height="300"/>
 </a>
+
 <a href="https://aimanwafii.my.id">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" height="300" style="border: none; outline: none;"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nmfqq5q5557pliglc6qap3rjhq" height="300"/>
 </a>
+
 </div>
 
 </div>
