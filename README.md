@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4xYXB2cXFpOHh3NjB0YnV5cDV2b2lvYXAxbzR4cjB3Y2o3dm8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7FDuR0rh63Qjwci0o/giphy.gif" width="100%" alt="Banner GIF">
+</p>
+
 # Hi there, I'm Aiman 👋
 I'm passionate about building clean and user-friendly web and mobile apps. Recently, I've been diving into Flutter and creating some projects. 
 <br><br>
@@ -7,7 +11,7 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 <a href="https://www.linkedin.com/in/aiman-wafii-an-nawal/">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
 </a>
-<a>
+<a href= "https://www.instagram.com/wafiian03_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
