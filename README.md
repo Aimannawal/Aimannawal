@@ -35,12 +35,12 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 <a href="https://aimanwafii.my.id">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aimannawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 </a>
-<a href="https://aimanwafii.my.id">
+<!-- <a href="https://aimanwafii.my.id"> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aimannawal&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://aimanwafii.my.id">
+<!-- </a> -->
+<!-- <a href="https://aimanwafii.my.id"> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aimannawal&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+<!-- </a> -->
 
 </div>
 
