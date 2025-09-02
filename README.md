@@ -13,10 +13,10 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
----
+<!-- ---
 
-## 🛠️ Tech Stack & Tools
-
+## 🛠️ Tech Stack & Tools -->
+<!-- 
 | Category | Technologies |
 |---|---|
 | **Frontend** | [![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://aimanwafii.my.id) [![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://aimanwafii.my.id) [![TYPESCRIPT](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://aimanwafii.my.id) [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://aimanwafii.my.id) [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=00DC82&style=for-the-badge)](https://aimanwafii.my.id) [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://aimanwafii.my.id) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://aimanwafii.my.id) [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://aimanwafii.my.id) |
@@ -24,7 +24,7 @@ I'm passionate about building clean and user-friendly web and mobile apps. Recen
 | **Backend** | [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://aimanwafii.my.id) [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://aimanwafii.my.id) [![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://aimanwafii.my.id) [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)](https://aimanwafii.my.id) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)](https://aimanwafii.my.id) [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://aimanwafii.my.id) |
 | **Mobile** | [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://aimanwafii.my.id) [![React Native](https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://aimanwafii.my.id) |
 | **Databases** | [![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://aimanwafii.my.id) [![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge)](https://aimanwafii.my.id) |
-| **Tools** | [![VSCode](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](https://aimanwafii.my.id) [![Figma](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)](https://aimanwafii.my.id) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://aimanwafii.my.id) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://aimanwafii.my.id) [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)](https://aimanwafii.my.id) |
+| **Tools** | [![VSCode](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](https://aimanwafii.my.id) [![Figma](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)](https://aimanwafii.my.id) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://aimanwafii.my.id) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://aimanwafii.my.id) [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)](https://aimanwafii.my.id) | -->
 
 ---
 
