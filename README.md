@@ -29,7 +29,7 @@ I’m a dedicated FullStack Developer passionate about crafting seamless digital
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <div align="center">
   
@@ -47,7 +47,7 @@ I’m a dedicated FullStack Developer passionate about crafting seamless digital
 
 ---
 
-## 📡 My Live Status
+<!-- ## 📡 My Live Status -->
 
 <div align="center">
 
