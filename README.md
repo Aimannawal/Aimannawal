@@ -1,7 +1,8 @@
 [<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4xYXB2cXFpOHh3NjB0YnV5cDV2b2lvYXAxbzR4cjB3Y2o3dm8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7FDuR0rh63Qjwci0o/giphy.gif" width="100%" alt="Banner GIF">](https://aimanwafii.my.id/)
 
 # Hi there, I'm Aiman 👋
-I'm passionate about building clean and user-friendly web and mobile apps. Recently, I've been diving into Flutter and creating some projects. 
+<!-- I'm passionate about building clean and user-friendly web and mobile apps. Recently, I've been diving into Flutter and creating some projects.  -->
+I’m a dedicated FullStack Developer passionate about crafting seamless digital solutions. For me, every project is an opportunity to learn, innovate, and create something meaningful that makes technology more accessible.
 <!-- <br><br>
 <a href="mailto:aimanwafii03@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
