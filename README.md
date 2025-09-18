@@ -33,9 +33,9 @@ I’m a dedicated FullStack Developer passionate about crafting seamless digital
 
 <div align="center">
   
-<a href="https://aimanwafii.my.id">
+<!-- <a href="https://aimanwafii.my.id"> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aimannawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</a>
+<!-- </a> -->
 <!-- <a href="https://aimanwafii.my.id"> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aimannawal&theme=tokyonight&hide_border=true"/>
 <!-- </a> -->
