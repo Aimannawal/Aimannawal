@@ -1,6 +1,6 @@
 [<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4xYXB2cXFpOHh3NjB0YnV5cDV2b2lvYXAxbzR4cjB3Y2o3dm8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7FDuR0rh63Qjwci0o/giphy.gif" width="100%" alt="Banner GIF">](https://aimanwafii.my.id/)
 
-# Hi there, I'm Aiman 👋
+# Hi there, I'm Aiman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <!-- I'm passionate about building clean and user-friendly web and mobile apps. Recently, I've been diving into Flutter and creating some projects.  -->
 I’m a dedicated FullStack Developer passionate about crafting seamless digital solutions. For me, every project is an opportunity to learn, innovate, and create something meaningful that makes technology more accessible.
 <!-- <br><br>
