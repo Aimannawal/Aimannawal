@@ -7,7 +7,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUyNW9hZW40OWQzNGFvdmNjc2U4eGEwdWpzdmh4amE1ZnF1d2ljYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="100%" />
 </a> -->
 <a href="https://aimanwafii.my.id/">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF0cHl4MTAwdW9oZWx6MjRvYTdwcXNlaGNtaGZoa2cwbXVkb2l0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8nRxogx9tgvCzuSHLl/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHJjbXYyZjA2cGFrMnAxZmgyeXN3aDhnM2YxYnVsODlwZmN2dTJucyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/o3OWvKmIRpEkJkkNFs/giphy.gif" width="100%" />
 </a>
 
 # Hi there, I'm Aiman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
