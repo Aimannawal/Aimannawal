@@ -1,14 +1,18 @@
 <!-- [<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4xYXB2cXFpOHh3NjB0YnV5cDV2b2lvYXAxbzR4cjB3Y2o3dm8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7FDuR0rh63Qjwci0o/giphy.gif" width="100%" alt="Banner GIF">](https://aimanwafii.my.id/) 
 [<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1kbm53dTc2N2V2ZTA1ZGU5MWE0emR2bWtseGl4bW1zMmh2d2hjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HZzyYYSDpcfHTrQIC9/giphy.gif" width="100%" alt="Banner GIF">](https://aimanwafii.my.id/) -->
-<a href="https://aimanwafii.my.id/">
+<!-- <a href="https://aimanwafii.my.id/">
   <img src="https://media1.tenor.com/m/iBmwVTRoDS8AAAAC/a-space-for-the-unbound.gif" width="100%" />
-</a>
+</a> -->
 <!-- <a href="https://aimanwafii.my.id/">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUyNW9hZW40OWQzNGFvdmNjc2U4eGEwdWpzdmh4amE1ZnF1d2ljYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="100%" />
 </a> -->
 <!-- <a href="https://aimanwafii.my.id/">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3duMGJ1YXl1NnA0YjV5OXdmbXl2OW5mN2MwaTh6OGY3b2Vyc2Y2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SrTYvoxzRAaUeiHRZV/giphy.gif" width="100%" />
 </a> -->
+<a href="https://aimanwafii.my.id/">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHoyOG8wcm05MnZsMjJhN2VpNTZjcnBzbTYzcXd0cGYyZHd5Mmx6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VgsbzY9rXBtyI6Lvg5/giphy.gif" width="100%" />
+</a>
+
 
 # Hi there, I'm Aiman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <!-- I'm passionate about building clean and user-friendly web and mobile apps. Recently, I've been diving into Flutter and creating some projects.  -->
